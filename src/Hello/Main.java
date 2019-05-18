@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello, my name is David");
         System.out.println("Cool David, I think I'm finally getting this VCS stuff to work - Clayton");
-        System.out.println("Hi David! I promise I left it as clean as I found it.")
+        System.out.println("Hi David! I promise I left it as clean as I found it.");
+        System.out.println("Ok, now that first change was from github desktop + VSCode, but now this change is from intelliJ. ");
     }
 }
